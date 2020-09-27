@@ -1,0 +1,33 @@
+{
+  "oski_state" : {
+    "score" : 2,
+    "img" : "https:\/\/oski-pics.s3-us-west-1.amazonaws.com\/oski2.png",
+    "health" : "DEAD"
+  },
+  "friend_states" : [
+    {
+      "name" : "Sam Gorman",
+      "id" : "8182033202",
+      "frequency" : "Daily",
+      "messaged" : false
+    },
+    {
+      "name" : "Abhinav Kejriwal",
+      "id" : "6465252058",
+      "frequency" : "Weekly",
+      "messaged" : false
+    },
+    {
+      "name" : "Kanyes Thaker",
+      "id" : "9498362723",
+      "frequency" : "Every few days",
+      "messaged" : false
+    }
+  ],
+  "options" : [
+    "Daily",
+    "Every few days",
+    "Weekly",
+    "Every 2 Weeks"
+  ]
+}
