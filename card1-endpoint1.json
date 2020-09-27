@@ -1,0 +1,23 @@
+{
+  "9498362723" : {
+    "name" : "Kanyes Thaker",
+    "status" : "No events for a day",
+    "on_iris" : true,
+    "event_title" : "Free Now",
+    "busy" : false
+  },
+  "6465252058" : {
+    "name" : "Abhinav Kejriwal",
+    "event_title" : "",
+    "on_iris" : false,
+    "status" : "",
+    "busy" : false
+  },
+  "8182033202" : {
+    "name" : "Sam Gorman",
+    "status" : "No events for 3 hours",
+    "on_iris" : true,
+    "event_title" : "Free Now",
+    "busy" : false
+  }
+}
