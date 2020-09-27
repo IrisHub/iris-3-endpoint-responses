@@ -1,0 +1,1197 @@
+{
+  "classes" : [
+    {
+      "class_name" : "MATH 110: MATH 110 Linear Algebra",
+      "class_id" : "kcz7n0fk1ps4yv",
+      "lectures" : [
+        {
+          "lecture_polls" : [
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          "lecture_name" : "Lecture 1",
+          "lecture_vote_pcts" : [
+            [
+              33,
+              33,
+              33
+            ],
+            [
+              50,
+              50
+            ]
+          ],
+          "lecture_id" : "0",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "Easy",
+            "Watch"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              2,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 2",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              50,
+              50
+            ],
+            [
+              100,
+              0
+            ]
+          ],
+          "lecture_id" : "1",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "Medium",
+            "Watch"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 3",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "2",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 4",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "3",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 5",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "4",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 6",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "5",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 7",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "6",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 8",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "7",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 9",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "8",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 10",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "9",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 11",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "10",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 12",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "11",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 13",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "12",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 14",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "13",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 15",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "14",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 16",
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "15",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "16",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 17"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "17",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 18"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "18",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 19"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "19",
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 20"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "20",
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 21"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "21",
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 22"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "22",
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 23"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "23",
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_name" : "Lecture 24"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "24",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 25"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "25",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 26"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "26",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 27"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "27",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 28"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "28",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 29"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "29",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 30"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "30",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 31"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "31",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 32"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "32",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 33"
+        },
+        {
+          "lecture_vote_pcts" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_max_votes" : [
+            "0",
+            "0"
+          ],
+          "lecture_polls" : [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lecture_id" : "33",
+          "user_vote" : [
+            -1,
+            -1
+          ],
+          "lecture_name" : "Lecture 34"
+        }
+      ]
+    }
+  ],
+  "poll_titles" : [
+    "How was the lecture?",
+    "Should you watch the lecture?"
+  ],
+  "polls" : [
+    [
+      {
+        "icon" : "😄",
+        "text" : "Easy"
+      },
+      {
+        "text" : "Medium",
+        "icon" : "😕"
+      },
+      {
+        "text" : "Hard",
+        "icon" : "😵"
+      }
+    ],
+    [
+      {
+        "text" : "Watch",
+        "icon" : "😄"
+      },
+      {
+        "text" : "Don't Watch",
+        "icon" : "😵"
+      }
+    ]
+  ]
+}
